@@ -1,0 +1,17 @@
+#EXERCISE 1
+Message: 'flow' -> Integer: 1718382455
+
+#EXERCISE 2
+Integer: 14445 -> Message: '8m'
+
+#EXERCISE 3
+1. Public Key (N, e) = (47941, 65537), Private Key d = 20973
+   Plaintext M = 26729 -> Ciphertext C = 27349
+2. Public Key (N, e) = (35183, 30737), Private Key d = 9473
+   Ciphertext C = 29600 -> Plaintext M = 26729
+
+#EXERCISE 4
+Public Key (N, e) = (2206699709, 65537)
+Private Key d     = 924494273
+Decrypted Int M   = 1718382455
+Plaintext String  = 'flow'
